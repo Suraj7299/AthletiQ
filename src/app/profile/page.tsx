@@ -1,7 +1,7 @@
-const PRofilePage = () => {
+const ProfilePage = () => {
   return (
-    <div>PRofilePage</div>
+    <div>ProfilePage</div>
   )
 }
 
-export default PRofilePage
+export default ProfilePage
